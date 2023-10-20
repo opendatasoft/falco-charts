@@ -21,4 +21,4 @@ dependencies:
   - name: falcosidekick
     version: "0.7.1"
     condition: falcosidekick.enabled
-    repository: https://falcosecurity.github.io/charts
+    repository: https://raw.githubusercontent.com/opendatasoft/falco-charts/gh-pages/
